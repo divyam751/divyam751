@@ -68,3 +68,4 @@ Feel free to reach out for any inquiries, opportunities, or just to say hi!
 I'm always excited to collaborate on new projects and explore innovative ideas. If you have something in mind or just want to chat, feel free to get in touch!
 
 ![Let's Work Together](https://example.com/worktogether.gif)
+![team-](https://github.com/divyam751/test/assets/125983433/2d86319f-1e5c-4c86-8cd5-4f19e27ec552)
