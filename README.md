@@ -47,7 +47,7 @@ Check out some of my awesome projects:
   
 - [KFC](https://tubular-sopapillas-663bac.netlify.app/): Explore our virtual chicken paradise where you can browse our mouthwatering menu, customize your favorite meals, and conveniently place your orders for delivery or pickup. Get ready to satisfy your cravings and experience the finger-licking goodness of KFC, all from the comfort of your own home!"
 
-- [Portfolio](https://divyam751.github.io/) : This is my portfolio website, this website showcases my projects and skills, highlighting my expertise in creating interactive and visually appealing web applications. Feel free to browse through my work and reach out for any collaborations or inquiries. Let's bring your ideas to life together!
+- [Portfolio](https://divyam751.github.io) : This is my portfolio website, this website showcases my projects and skills, highlighting my expertise in creating interactive and visually appealing web applications. Feel free to browse through my work and reach out for any collaborations or inquiries. Let's bring your ideas to life together! 'https://divyam751.github.io'
 
 
 Feel free to explore the repositories for more details, source code, and demos.
