@@ -1,6 +1,5 @@
 
-![LinkedIn cover - 2](https://github.com/divyam751/divyam751/assets/125983433/66c7c9e5-1a7b-4839-a3a3-230f96a7b964)
- 
+![LinkedIn cover - 4](https://github.com/divyam751/divyam751/assets/125983433/dbd51a33-2c15-4560-aaad-4267cab179bc)
 
 <div align="center">
 
