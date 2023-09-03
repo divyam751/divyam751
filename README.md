@@ -1,4 +1,13 @@
+
+![LinkedIn cover - 2](https://github.com/divyam751/divyam751/assets/125983433/66c7c9e5-1a7b-4839-a3a3-230f96a7b964)
+ 
+
+<div align="center">
+
 # Welcome to My Profile! 👋
+
+</div>
+
 ![result](https://github.com/divyam751/test/assets/125983433/eeb06006-72c3-4627-891a-3e52c140a240)
 
 ![219923823-bf1ce878-c6b8-4faa-be07-93e6b1006521](https://github.com/divyam751/test/assets/125983433/f81aa310-61ad-4922-bd90-bed4da09e6c0)
