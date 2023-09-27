@@ -80,7 +80,7 @@ Feel free to explore the repositories for more details, source code, and demos.
 Let's connect and collaborate! You can find me on:
 
 💼 [LinkedIn](https://linkedin.com/in/divyam751)
-📄[Resume](https://drive.google.com/file/d/1AqZMjnPacKIcH8d_YNiV7STc2LpO08Uw/view?usp=sharing)
+📄[Resume](https://drive.google.com/file/d/1QLvELukHGjnVJKjvfmMmA5DoDHMVSEYY/view?usp=drive_link)
 
 
 Feel free to reach out for any inquiries, opportunities, or just to say hi!
