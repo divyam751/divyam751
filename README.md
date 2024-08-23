@@ -61,6 +61,10 @@ Hey there! I'm Divyam Chauhan, a passionate developer with a love for coding and
 
 Check out some of my awesome projects:
 
+- [Car-Rental-Website](https://dc-car-rental.vercel.app/): Welcome to our Car Rental Website, your go-to platform for a seamless car rental experience. This responsive web application is built with the latest technologies to ensure users can easily find and book their ideal vehicle. The project features a sleek design and a range of functionalities, including a Sign In/Register page for user authentication, a user-friendly Book Car component, and detailed pages showcasing various vehicle models. The stunning hero page grabs attention right from the start, providing a captivating introduction to the platform. Explore the live version to see how effortlessly you can rent your next car, whether it’s for a special occasion or your daily commute.
+
+- [Fetch-Master](https://fetch-master.vercel.app/): Welcome to Fetch-Master, the ultimate tool for simplifying API requests! Inspired by Postman, Fetch-Master allows you to easily manage and switch between different API requests with multiple tabs. It supports all major HTTP methods—GET, POST, PUT, DELETE, and PATCH—and provides features like JSON formatting, error handling, and a responsive UI. With Fetch-Master, you can input headers, manage request bodies, and view responses in a formatted manner, making it easier than ever to compare and test different APIs. Whether you’re debugging or developing, Fetch-Master streamlines your workflow, ensuring efficient and organized API management.
+
 - [Travel-Booking-Website](https://dc-voyawander.vercel.app/): Voyawander, your ultimate travel companion! Voyawander is a full-stack project built to help you plan your dream trips. With a stunning frontend deployed on Vercel and a robust backend deployed on Cyclic, Voyawander brings together React.js, Chakra UI, MongoDB, Express.js, and Node.js to create a seamless travel planning experience. The database is hosted on MongoDB Atlas, ensuring secure and efficient data storage. This project offers a wide range of features, including searching, sorting, debouncing, local storage, authentication, and various pages for planning your trips.
   
 - [KFC-Clone](https://dc-kfc.vercel.app/): Explore our virtual chicken paradise where you can browse our mouthwatering menu, This is a solo project that replicates the functionality and design of the famous fast-food restaurant, KFC. The project consists of both a backend and a frontend, utilizing JSON Server for the backend deployed on Render, and React with Chakra UI for the frontend deployed on Vercel.
@@ -80,7 +84,7 @@ Feel free to explore the repositories for more details, source code, and demos.
 Let's connect and collaborate! You can find me on:
 
 💼 [LinkedIn](https://linkedin.com/in/divyam751)
-📄[Resume](https://drive.google.com/file/d/1QLvELukHGjnVJKjvfmMmA5DoDHMVSEYY/view?usp=drive_link)
+📄[Resume](https://drive.google.com/file/d/1anu-pt27LFkKuNosRYEsTIUxuzktD9Qs/view?usp=sharing)
 
 
 Feel free to reach out for any inquiries, opportunities, or just to say hi!
